@@ -1,0 +1,417 @@
+Sale Date	Department	Manager	Sales
+1/1/2017	Appliances	Sally Jones	2824.82
+1/1/2017	Electric	Bob Macky	164.65
+1/1/2017	Flooring	Bill Smoot	446.05
+1/1/2017	Kitchen and Bath	John Jacobs	1914.31
+1/1/2017	Lawn and Garden	Jonathon Ralphson	3381.88
+1/1/2017	Lumber	Benjamin Tesner	97.21
+1/1/2017	Paint	Abigail Rae	1078.34
+1/1/2017	Plumbing	Laura Olson	49.28
+1/8/2017	Appliances	Sally Jones	2073.22
+1/8/2017	Electric	Bob Macky	1999.72
+1/8/2017	Flooring	Bill Smoot	2180.13
+1/8/2017	Kitchen and Bath	John Jacobs	1711.99
+1/8/2017	Lawn and Garden	Jonathon Ralphson	2139.19
+1/8/2017	Lumber	Benjamin Tesner	2178.21
+1/8/2017	Paint	Abigail Rae	2090.21
+1/8/2017	Plumbing	Laura Olson	2142.44
+1/15/2017	Appliances	Sally Jones	191.44
+1/15/2017	Electric	Bob Macky	63.31
+1/15/2017	Flooring	Bill Smoot	2970.64
+1/15/2017	Kitchen and Bath	John Jacobs	3312.25
+1/15/2017	Lawn and Garden	Jonathon Ralphson	4434.94
+1/15/2017	Lumber	Benjamin Tesner	2983.15
+1/15/2017	Paint	Abigail Rae	361.63
+1/15/2017	Plumbing	Laura Olson	3287.92
+1/22/2017	Appliances	Sally Jones	426.48
+1/22/2017	Electric	Bob Macky	2336.84
+1/22/2017	Flooring	Bill Smoot	4519.91
+1/22/2017	Kitchen and Bath	John Jacobs	4171.96
+1/22/2017	Lawn and Garden	Jonathon Ralphson	247.40
+1/22/2017	Lumber	Benjamin Tesner	3817.34
+1/22/2017	Paint	Abigail Rae	7.75
+1/22/2017	Plumbing	Laura Olson	4590.63
+1/29/2017	Appliances	Sally Jones	134.29
+1/29/2017	Electric	Bob Macky	2836.35
+1/29/2017	Flooring	Bill Smoot	1008.23
+1/29/2017	Kitchen and Bath	John Jacobs	3180.07
+1/29/2017	Lawn and Garden	Jonathon Ralphson	754.81
+1/29/2017	Lumber	Benjamin Tesner	1325.67
+1/29/2017	Paint	Abigail Rae	561.85
+1/29/2017	Plumbing	Laura Olson	4355.48
+2/5/2017	Appliances	Sally Jones	4938.15
+2/5/2017	Electric	Bob Macky	4895.03
+2/5/2017	Flooring	Bill Smoot	2072.36
+2/5/2017	Kitchen and Bath	John Jacobs	4617.98
+2/5/2017	Lawn and Garden	Jonathon Ralphson	868.39
+2/5/2017	Lumber	Benjamin Tesner	3404.01
+2/5/2017	Paint	Abigail Rae	777.18
+2/5/2017	Plumbing	Laura Olson	3733.31
+2/12/2017	Appliances	Sally Jones	1990.30
+2/12/2017	Electric	Bob Macky	2117.88
+2/12/2017	Flooring	Bill Smoot	3286.30
+2/12/2017	Kitchen and Bath	John Jacobs	756.88
+2/12/2017	Lawn and Garden	Jonathon Ralphson	2388.61
+2/12/2017	Lumber	Benjamin Tesner	2472.69
+2/12/2017	Paint	Abigail Rae	1797.51
+2/12/2017	Plumbing	Laura Olson	2549.77
+2/19/2017	Appliances	Sally Jones	3415.01
+2/19/2017	Electric	Bob Macky	3729.68
+2/19/2017	Flooring	Bill Smoot	1360.75
+2/19/2017	Kitchen and Bath	John Jacobs	4685.56
+2/19/2017	Lawn and Garden	Jonathon Ralphson	594.21
+2/19/2017	Lumber	Benjamin Tesner	4983.09
+2/19/2017	Paint	Abigail Rae	4112.78
+2/19/2017	Plumbing	Laura Olson	2305.21
+2/26/2017	Appliances	Sally Jones	1132.41
+2/26/2017	Electric	Bob Macky	2209.33
+2/26/2017	Flooring	Bill Smoot	3260.14
+2/26/2017	Kitchen and Bath	John Jacobs	4749.61
+2/26/2017	Lawn and Garden	Jonathon Ralphson	1416.60
+2/26/2017	Lumber	Benjamin Tesner	3320.49
+2/26/2017	Paint	Abigail Rae	1783.88
+2/26/2017	Plumbing	Laura Olson	4768.18
+3/5/2017	Appliances	Sally Jones	2090.93
+3/5/2017	Electric	Bob Macky	1782.79
+3/5/2017	Flooring	Bill Smoot	862.73
+3/5/2017	Kitchen and Bath	John Jacobs	3598.47
+3/5/2017	Lawn and Garden	Jonathon Ralphson	2486.21
+3/5/2017	Lumber	Benjamin Tesner	1322.80
+3/5/2017	Paint	Abigail Rae	3015.68
+3/5/2017	Plumbing	Laura Olson	3059.37
+3/12/2017	Appliances	Sally Jones	1054.86
+3/12/2017	Electric	Bob Macky	1679.87
+3/12/2017	Flooring	Bill Smoot	955.43
+3/12/2017	Kitchen and Bath	John Jacobs	2045.90
+3/12/2017	Lawn and Garden	Jonathon Ralphson	4945.92
+3/12/2017	Lumber	Benjamin Tesner	3997.68
+3/12/2017	Paint	Abigail Rae	4273.64
+3/12/2017	Plumbing	Laura Olson	4305.78
+3/19/2017	Appliances	Sally Jones	2045.44
+3/19/2017	Electric	Bob Macky	4201.70
+3/19/2017	Flooring	Bill Smoot	4841.43
+3/19/2017	Kitchen and Bath	John Jacobs	4674.35
+3/19/2017	Lawn and Garden	Jonathon Ralphson	3927.41
+3/19/2017	Lumber	Benjamin Tesner	1388.09
+3/19/2017	Paint	Abigail Rae	3561.58
+3/19/2017	Plumbing	Laura Olson	1363.89
+3/26/2017	Appliances	Laura Olson	974.71
+3/26/2017	Electric	Sally Jones	78.56
+3/26/2017	Flooring	Bob Macky	1037.59
+3/26/2017	Kitchen and Bath	Bill Smoot	39.29
+3/26/2017	Lawn and Garden	John Jacobs	1760.62
+3/26/2017	Lumber	Jonathon Ralphson	3414.40
+3/26/2017	Paint	Benjamin Tesner	945.52
+3/26/2017	Plumbing	Abigail Rae	396.56
+4/2/2017	Appliances	Laura Olson	1744.40
+4/2/2017	Electric	Sally Jones	4943.84
+4/2/2017	Flooring	Bob Macky	252.04
+4/2/2017	Kitchen and Bath	Bill Smoot	3651.17
+4/2/2017	Lawn and Garden	John Jacobs	1419.54
+4/2/2017	Lumber	Jonathon Ralphson	998.59
+4/2/2017	Paint	Benjamin Tesner	4924.51
+4/2/2017	Plumbing	Abigail Rae	1749.38
+4/9/2017	Appliances	Laura Olson	3504.58
+4/9/2017	Electric	Sally Jones	3410.88
+4/9/2017	Flooring	Bob Macky	3410.32
+4/9/2017	Kitchen and Bath	Bill Smoot	1729.81
+4/9/2017	Lawn and Garden	John Jacobs	1564.33
+4/9/2017	Lumber	Jonathon Ralphson	2020.46
+4/9/2017	Paint	Benjamin Tesner	1778.54
+4/9/2017	Plumbing	Abigail Rae	872.80
+4/16/2017	Appliances	Laura Olson	2527.71
+4/16/2017	Electric	Sally Jones	3464.24
+4/16/2017	Flooring	Bob Macky	1004.02
+4/16/2017	Kitchen and Bath	Bill Smoot	4997.86
+4/16/2017	Lawn and Garden	John Jacobs	4892.49
+4/16/2017	Lumber	Jonathon Ralphson	4977.79
+4/16/2017	Paint	Benjamin Tesner	810.43
+4/16/2017	Plumbing	Abigail Rae	1043.43
+4/23/2017	Appliances	Laura Olson	2230.92
+4/23/2017	Electric	Sally Jones	3523.27
+4/23/2017	Flooring	Bob Macky	3349.68
+4/23/2017	Kitchen and Bath	Bill Smoot	60.38
+4/23/2017	Lawn and Garden	John Jacobs	1268.51
+4/23/2017	Lumber	Jonathon Ralphson	717.66
+4/23/2017	Paint	Benjamin Tesner	1798.38
+4/23/2017	Plumbing	Abigail Rae	856.58
+4/30/2017	Appliances	Laura Olson	234.57
+4/30/2017	Electric	Sally Jones	1859.33
+4/30/2017	Flooring	Bob Macky	4038.84
+4/30/2017	Kitchen and Bath	Bill Smoot	4656.81
+4/30/2017	Lawn and Garden	John Jacobs	3924.20
+4/30/2017	Lumber	Jonathon Ralphson	1034.36
+4/30/2017	Paint	Benjamin Tesner	846.24
+4/30/2017	Plumbing	Abigail Rae	2937.80
+5/7/2017	Appliances	Laura Olson	997.36
+5/7/2017	Electric	Sally Jones	2012.21
+5/7/2017	Flooring	Bob Macky	4652.06
+5/7/2017	Kitchen and Bath	Bill Smoot	2054.96
+5/7/2017	Lawn and Garden	John Jacobs	3269.80
+5/7/2017	Lumber	Jonathon Ralphson	3155.52
+5/7/2017	Paint	Benjamin Tesner	1816.60
+5/7/2017	Plumbing	Abigail Rae	3787.50
+5/14/2017	Appliances	Laura Olson	11.36
+5/14/2017	Electric	Sally Jones	292.74
+5/14/2017	Flooring	Bob Macky	3245.38
+5/14/2017	Kitchen and Bath	Bill Smoot	2822.69
+5/14/2017	Lawn and Garden	John Jacobs	2851.16
+5/14/2017	Lumber	Jonathon Ralphson	3317.60
+5/14/2017	Paint	Benjamin Tesner	3398.34
+5/14/2017	Plumbing	Abigail Rae	3831.00
+5/21/2017	Appliances	Laura Olson	2916.31
+5/21/2017	Electric	Sally Jones	3135.55
+5/21/2017	Flooring	Bob Macky	3622.13
+5/21/2017	Kitchen and Bath	Bill Smoot	397.41
+5/21/2017	Lawn and Garden	John Jacobs	2500.12
+5/21/2017	Lumber	Jonathon Ralphson	2469.81
+5/21/2017	Paint	Benjamin Tesner	2436.27
+5/21/2017	Plumbing	Abigail Rae	1154.53
+5/28/2017	Appliances	Laura Olson	3645.16
+5/28/2017	Electric	Sally Jones	4992.01
+5/28/2017	Flooring	Bob Macky	470.52
+5/28/2017	Kitchen and Bath	Bill Smoot	4125.09
+5/28/2017	Lawn and Garden	John Jacobs	402.66
+5/28/2017	Lumber	Jonathon Ralphson	1923.26
+5/28/2017	Paint	Benjamin Tesner	1859.87
+5/28/2017	Plumbing	Abigail Rae	4631.96
+6/4/2017	Appliances	Laura Olson	3057.09
+6/4/2017	Electric	Sally Jones	1417.11
+6/4/2017	Flooring	Bob Macky	43.71
+6/4/2017	Kitchen and Bath	Bill Smoot	2616.81
+6/4/2017	Lawn and Garden	John Jacobs	4589.93
+6/4/2017	Lumber	Jonathon Ralphson	3219.83
+6/4/2017	Paint	Benjamin Tesner	1711.55
+6/4/2017	Plumbing	Abigail Rae	4058.01
+6/11/2017	Appliances	Laura Olson	1535.93
+6/11/2017	Electric	Sally Jones	2999.98
+6/11/2017	Flooring	Bob Macky	261.33
+6/11/2017	Kitchen and Bath	Bill Smoot	1935.89
+6/11/2017	Lawn and Garden	John Jacobs	242.60
+6/11/2017	Lumber	Jonathon Ralphson	4129.00
+6/11/2017	Paint	Benjamin Tesner	435.64
+6/11/2017	Plumbing	Abigail Rae	1780.12
+6/18/2017	Appliances	Laura Olson	1550.28
+6/18/2017	Electric	Sally Jones	201.40
+6/18/2017	Flooring	Bob Macky	4606.33
+6/18/2017	Kitchen and Bath	Bill Smoot	1865.87
+6/18/2017	Lawn and Garden	John Jacobs	4177.83
+6/18/2017	Lumber	Jonathon Ralphson	3036.48
+6/18/2017	Paint	Benjamin Tesner	4551.87
+6/18/2017	Plumbing	Abigail Rae	1191.15
+6/25/2017	Appliances	Abigail Rae	1489.46
+6/25/2017	Electric	Laura Olson	3438.65
+6/25/2017	Flooring	Sally Jones	391.28
+6/25/2017	Kitchen and Bath	Bob Macky	4292.00
+6/25/2017	Lawn and Garden	Bill Smoot	390.55
+6/25/2017	Lumber	John Jacobs	3760.71
+6/25/2017	Paint	Jonathon Ralphson	3978.89
+6/25/2017	Plumbing	Benjamin Tesner	3176.83
+7/2/2017	Appliances	Abigail Rae	256.98
+7/2/2017	Electric	Laura Olson	4144.09
+7/2/2017	Flooring	Sally Jones	4166.38
+7/2/2017	Kitchen and Bath	Bob Macky	76.68
+7/2/2017	Lawn and Garden	Bill Smoot	3224.96
+7/2/2017	Lumber	John Jacobs	3386.51
+7/2/2017	Paint	Jonathon Ralphson	2299.24
+7/2/2017	Plumbing	Benjamin Tesner	4673.72
+7/9/2017	Appliances	Abigail Rae	107.11
+7/9/2017	Electric	Laura Olson	3349.54
+7/9/2017	Flooring	Sally Jones	2522.50
+7/9/2017	Kitchen and Bath	Bob Macky	772.35
+7/9/2017	Lawn and Garden	Bill Smoot	2451.34
+7/9/2017	Lumber	John Jacobs	3512.70
+7/9/2017	Paint	Jonathon Ralphson	2092.17
+7/9/2017	Plumbing	Benjamin Tesner	2498.75
+7/16/2017	Appliances	Abigail Rae	3441.52
+7/16/2017	Electric	Laura Olson	2326.07
+7/16/2017	Flooring	Sally Jones	1541.01
+7/16/2017	Kitchen and Bath	Bob Macky	2880.51
+7/16/2017	Lawn and Garden	Bill Smoot	4766.87
+7/16/2017	Lumber	John Jacobs	1182.98
+7/16/2017	Paint	Jonathon Ralphson	2054.61
+7/16/2017	Plumbing	Benjamin Tesner	4213.70
+7/23/2017	Appliances	Abigail Rae	2209.09
+7/23/2017	Electric	Laura Olson	1940.91
+7/23/2017	Flooring	Sally Jones	2028.24
+7/23/2017	Kitchen and Bath	Bob Macky	1962.99
+7/23/2017	Lawn and Garden	Bill Smoot	4944.88
+7/23/2017	Lumber	John Jacobs	2768.33
+7/23/2017	Paint	Jonathon Ralphson	2158.14
+7/23/2017	Plumbing	Benjamin Tesner	2289.70
+7/30/2017	Appliances	Abigail Rae	2618.78
+7/30/2017	Electric	Laura Olson	4905.28
+7/30/2017	Flooring	Sally Jones	3849.85
+7/30/2017	Kitchen and Bath	Bob Macky	4311.60
+7/30/2017	Lawn and Garden	Bill Smoot	2602.19
+7/30/2017	Lumber	John Jacobs	2059.60
+7/30/2017	Paint	Jonathon Ralphson	1879.53
+7/30/2017	Plumbing	Benjamin Tesner	2110.61
+8/6/2017	Appliances	Abigail Rae	3885.91
+8/6/2017	Electric	Laura Olson	1307.77
+8/6/2017	Flooring	Sally Jones	2359.34
+8/6/2017	Kitchen and Bath	Bob Macky	4067.85
+8/6/2017	Lawn and Garden	Bill Smoot	2355.37
+8/6/2017	Lumber	John Jacobs	2821.57
+8/6/2017	Paint	Jonathon Ralphson	3801.19
+8/6/2017	Plumbing	Benjamin Tesner	4210.37
+8/13/2017	Appliances	Abigail Rae	956.79
+8/13/2017	Electric	Laura Olson	2885.73
+8/13/2017	Flooring	Sally Jones	3147.02
+8/13/2017	Kitchen and Bath	Bob Macky	4236.44
+8/13/2017	Lawn and Garden	Bill Smoot	2708.46
+8/13/2017	Lumber	John Jacobs	75.33
+8/13/2017	Paint	Jonathon Ralphson	3003.37
+8/13/2017	Plumbing	Benjamin Tesner	4786.39
+8/20/2017	Appliances	Abigail Rae	620.09
+8/20/2017	Electric	Laura Olson	3806.34
+8/20/2017	Flooring	Sally Jones	4029.08
+8/20/2017	Kitchen and Bath	Bob Macky	4702.58
+8/20/2017	Lawn and Garden	Bill Smoot	3078.84
+8/20/2017	Lumber	John Jacobs	2683.54
+8/20/2017	Paint	Jonathon Ralphson	4014.04
+8/20/2017	Plumbing	Benjamin Tesner	3438.80
+8/27/2017	Appliances	Abigail Rae	4384.74
+8/27/2017	Electric	Laura Olson	3608.69
+8/27/2017	Flooring	Sally Jones	417.02
+8/27/2017	Kitchen and Bath	Bob Macky	3653.32
+8/27/2017	Lawn and Garden	Bill Smoot	2167.17
+8/27/2017	Lumber	John Jacobs	3578.97
+8/27/2017	Paint	Jonathon Ralphson	1404.52
+8/27/2017	Plumbing	Benjamin Tesner	1563.94
+9/3/2017	Appliances	Abigail Rae	192.86
+9/3/2017	Electric	Laura Olson	2968.57
+9/3/2017	Flooring	Sally Jones	4290.73
+9/3/2017	Kitchen and Bath	Bob Macky	3206.86
+9/3/2017	Lawn and Garden	Bill Smoot	1941.57
+9/3/2017	Lumber	John Jacobs	46.70
+9/3/2017	Paint	Jonathon Ralphson	2799.08
+9/3/2017	Plumbing	Benjamin Tesner	4096.38
+9/10/2017	Appliances	Abigail Rae	1626.88
+9/10/2017	Electric	Laura Olson	2222.20
+9/10/2017	Flooring	Sally Jones	4577.71
+9/10/2017	Kitchen and Bath	Bob Macky	3291.86
+9/10/2017	Lawn and Garden	Bill Smoot	2937.41
+9/10/2017	Lumber	John Jacobs	4519.48
+9/10/2017	Paint	Jonathon Ralphson	973.10
+9/10/2017	Plumbing	Benjamin Tesner	3881.11
+9/17/2017	Appliances	Abigail Rae	261.47
+9/17/2017	Electric	Laura Olson	4474.47
+9/17/2017	Flooring	Sally Jones	3700.39
+9/17/2017	Kitchen and Bath	Bob Macky	1778.60
+9/17/2017	Lawn and Garden	Bill Smoot	4391.96
+9/17/2017	Lumber	John Jacobs	3881.05
+9/17/2017	Paint	Jonathon Ralphson	2541.14
+9/17/2017	Plumbing	Benjamin Tesner	18.29
+9/24/2017	Appliances	Benjamin Tesner	3458.04
+9/24/2017	Electric	Abigail Rae	3499.86
+9/24/2017	Flooring	Laura Olson	4379.29
+9/24/2017	Kitchen and Bath	Sally Jones	4615.42
+9/24/2017	Lawn and Garden	Bob Macky	2475.31
+9/24/2017	Lumber	Bill Smoot	1478.06
+9/24/2017	Paint	John Jacobs	4998.71
+9/24/2017	Plumbing	Jonathon Ralphson	83.41
+10/1/2017	Appliances	Benjamin Tesner	3954.53
+10/1/2017	Electric	Abigail Rae	1780.19
+10/1/2017	Flooring	Laura Olson	2178.26
+10/1/2017	Kitchen and Bath	Sally Jones	35.97
+10/1/2017	Lawn and Garden	Bob Macky	953.42
+10/1/2017	Lumber	Bill Smoot	1685.62
+10/1/2017	Paint	John Jacobs	1000.52
+10/1/2017	Plumbing	Jonathon Ralphson	851.71
+10/8/2017	Appliances	Benjamin Tesner	1577.79
+10/8/2017	Electric	Abigail Rae	3092.82
+10/8/2017	Flooring	Laura Olson	2749.43
+10/8/2017	Kitchen and Bath	Sally Jones	1729.46
+10/8/2017	Lawn and Garden	Bob Macky	3392.39
+10/8/2017	Lumber	Bill Smoot	899.38
+10/8/2017	Paint	John Jacobs	675.43
+10/8/2017	Plumbing	Jonathon Ralphson	794.82
+10/15/2017	Appliances	Benjamin Tesner	268.95
+10/15/2017	Electric	Abigail Rae	417.29
+10/15/2017	Flooring	Laura Olson	136.54
+10/15/2017	Kitchen and Bath	Sally Jones	3401.84
+10/15/2017	Lawn and Garden	Bob Macky	1445.06
+10/15/2017	Lumber	Bill Smoot	3226.00
+10/15/2017	Paint	John Jacobs	3661.70
+10/15/2017	Plumbing	Jonathon Ralphson	2150.52
+10/22/2017	Appliances	Benjamin Tesner	4533.27
+10/22/2017	Electric	Abigail Rae	2678.85
+10/22/2017	Flooring	Laura Olson	1586.81
+10/22/2017	Kitchen and Bath	Sally Jones	2620.92
+10/22/2017	Lawn and Garden	Bob Macky	86.59
+10/22/2017	Lumber	Bill Smoot	448.61
+10/22/2017	Paint	John Jacobs	864.92
+10/22/2017	Plumbing	Jonathon Ralphson	2636.82
+10/29/2017	Appliances	Benjamin Tesner	1553.50
+10/29/2017	Electric	Abigail Rae	3396.42
+10/29/2017	Flooring	Laura Olson	562.02
+10/29/2017	Kitchen and Bath	Sally Jones	1649.72
+10/29/2017	Lawn and Garden	Bob Macky	4280.70
+10/29/2017	Lumber	Bill Smoot	81.46
+10/29/2017	Paint	John Jacobs	4772.12
+10/29/2017	Plumbing	Jonathon Ralphson	2276.15
+11/5/2017	Appliances	Benjamin Tesner	1740.08
+11/5/2017	Electric	Abigail Rae	83.09
+11/5/2017	Flooring	Laura Olson	1128.12
+11/5/2017	Kitchen and Bath	Sally Jones	1403.11
+11/5/2017	Lawn and Garden	Bob Macky	2112.61
+11/5/2017	Lumber	Bill Smoot	1120.24
+11/5/2017	Paint	John Jacobs	1777.45
+11/5/2017	Plumbing	Jonathon Ralphson	2372.53
+11/12/2017	Appliances	Benjamin Tesner	4074.59
+11/12/2017	Electric	Abigail Rae	3116.35
+11/12/2017	Flooring	Laura Olson	1271.84
+11/12/2017	Kitchen and Bath	Sally Jones	2056.14
+11/12/2017	Lawn and Garden	Bob Macky	4286.41
+11/12/2017	Lumber	Bill Smoot	4006.14
+11/12/2017	Paint	John Jacobs	1802.59
+11/12/2017	Plumbing	Jonathon Ralphson	16.67
+11/19/2017	Appliances	Benjamin Tesner	1153.61
+11/19/2017	Electric	Abigail Rae	3846.91
+11/19/2017	Flooring	Laura Olson	3510.47
+11/19/2017	Kitchen and Bath	Sally Jones	2565.90
+11/19/2017	Lawn and Garden	Bob Macky	2591.07
+11/19/2017	Lumber	Bill Smoot	2030.47
+11/19/2017	Paint	John Jacobs	77.23
+11/19/2017	Plumbing	Jonathon Ralphson	2169.46
+11/26/2017	Appliances	Benjamin Tesner	432.32
+11/26/2017	Electric	Abigail Rae	1903.56
+11/26/2017	Flooring	Laura Olson	4834.94
+11/26/2017	Kitchen and Bath	Sally Jones	1401.72
+11/26/2017	Lawn and Garden	Bob Macky	3205.46
+11/26/2017	Lumber	Bill Smoot	1595.37
+11/26/2017	Paint	John Jacobs	1515.64
+11/26/2017	Plumbing	Jonathon Ralphson	3425.89
+12/3/2017	Appliances	Benjamin Tesner	4645.93
+12/3/2017	Electric	Abigail Rae	3570.79
+12/3/2017	Flooring	Laura Olson	1821.20
+12/3/2017	Kitchen and Bath	Sally Jones	896.43
+12/3/2017	Lawn and Garden	Bob Macky	84.38
+12/3/2017	Lumber	Bill Smoot	2866.46
+12/3/2017	Paint	John Jacobs	4644.00
+12/3/2017	Plumbing	Jonathon Ralphson	1023.34
+12/10/2017	Appliances	Benjamin Tesner	889.13
+12/10/2017	Electric	Abigail Rae	2843.05
+12/10/2017	Flooring	Laura Olson	2178.92
+12/10/2017	Kitchen and Bath	Sally Jones	4689.87
+12/10/2017	Lawn and Garden	Bob Macky	2427.81
+12/10/2017	Lumber	Bill Smoot	2339.83
+12/10/2017	Paint	John Jacobs	1094.30
+12/10/2017	Plumbing	Jonathon Ralphson	616.38
+12/17/2017	Appliances	Benjamin Tesner	3532.52
+12/17/2017	Electric	Abigail Rae	5.78
+12/17/2017	Flooring	Laura Olson	397.49
+12/17/2017	Kitchen and Bath	Sally Jones	2837.76
+12/17/2017	Lawn and Garden	Bob Macky	868.73
+12/17/2017	Lumber	Bill Smoot	2079.01
+12/17/2017	Paint	John Jacobs	1391.84
+12/17/2017	Plumbing	Jonathon Ralphson	4885.69
+12/24/2017	Appliances	Benjamin Tesner	585.24
+12/24/2017	Electric	Abigail Rae	4469.23
+12/24/2017	Flooring	Laura Olson	3756.17
+12/24/2017	Kitchen and Bath	Sally Jones	1897.97
+12/24/2017	Lawn and Garden	Bob Macky	4988.34
+12/24/2017	Lumber	Bill Smoot	3935.62
+12/24/2017	Paint	John Jacobs	2728.46
+12/24/2017	Plumbing	Jonathon Ralphson	802.88

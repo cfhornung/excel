@@ -1,0 +1,41 @@
+Order Validation,,,,,,
+,,,,,,
+,Validation Critiera,,,,,
+,text length (# of characters),,date range,,,
+min,,,,,,
+max,,,,,,
+,,,,,,
+,Order Id,Customer ID,Order Date,,,
+,777777,MMK34,4/8/2022,,,
+,,,,,,
+,Validation Critiera,,,,list source,
+,whole # range,,decimal range,,yes,film
+min,,,,,no,print
+max,,,,,unknown,other
+,,,,,,
+,Item Id,Quantity,Unit Price,Total Price,In Stock?,Type
+,1324,2,$3.99 ,?,yes,film
+,325,5,$7.85 ,?,yes,other
+,325432,4,$9.99 ,?,yes,print
+,24145,3,$4.49 ,?,yes,film
+,,,,,,
+,Total,?,,?,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

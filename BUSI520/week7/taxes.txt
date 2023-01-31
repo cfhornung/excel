@@ -1,0 +1,28 @@
+Evaluating Tax Rates for the Arlington Group														
+<														
+														
+				Flat Tax Rate						Penalty Schedule			State Allowances	
+				@		@	@			@	@		@	@
+				!	!	!	!			!	!		!	!
+				!	!	!	!			!	!		!	!
+				!	!	!	!			!	!		!	!
+				!	!	!	!			!	!		!	!
+				!	!	!	!			!	!		!	!
+										!	!		!	!
+														
+														
+						Flat Tax Owed		Unpaid Tax			Pentalty Owed			
+ID #	Taxable Income	State of Residence	Withholding Taxes Paid	Estimated Taxes Paid	Actual Tax Owed	Alternate 1	Alternate 2	Actual	Alternate 1	Alternate 2	Actual 	Alternate 1	Alternate 2	State Allowance
+2464	88865	 OK 	14999	0	14422	?	?	?	?	?	?	?	?	?
+593	89263	 GA 	16423	0	14534	?	?	?	?	?	?	?	?	?
+8744	54794	 SC 	6384	0	6259	?	?	?	?	?	?	?	?	?
+998	364209	 NY 	0	93225	103628	?	?	?	?	?	?	?	?	?
+5218	71468	 OK 	9402	0	9594	?	?	?	?	?	?	?	?	?
+4492	23500	 GA 	1254	0	700	?	?	?	?	?	?	?	?	?
+2690	324527	 SC	89629	10864	90535	?	?	?	?	?	?	?	?	?
+1005	54935	 TN 	0	6161	6287	?	?	?	?	?	?	?	?	?
+2965	99399	 TN 	20844	0	17370	?	?	?	?	?	?	?	?	?
+5389	17437	 GA 	227	0	244	?	?	?	?	?	?	?	?	?
+														
+														
+Totals:	?	?	?	?	?	?	?	?	?	?	?	?	?	?

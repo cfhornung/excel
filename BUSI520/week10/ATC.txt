@@ -1,0 +1,14 @@
+ATC Valve Production
+,,,,,,Markup
+,,Production Time per Unit (in Hours),,,,#,,Original Values,,
+Item,Set-Up Cost,Casting,Machining,Final Assembly,Total Assembly,Unit Cost,List Price,Number Produced,% of Total # Produced,Total Profit
+Valve 102-45,950,1.20,1.70,0.30,?,35,?,75.00,?,?
+Valve 102-46,1000,3.20,1.50,0.30,?,44,?,75.00,?,?
+Valve 102-47,1000,3.00,1.20,0.30,?,41,?,55.00,?,?
+,
+,Total Time Used ,?,?,?,?,,Total,?,?,?
+,(based on # of each valve produced)
+,,,,,,,,,,
+CONSTRAINTS,,Casting,Machining,Final Assembly,Total Assembly,,,Number Produced,% of Total # Produced,
+,Min Total Time Used,#,#,#,#,,Min for Each Valve,#,#,
+,Max Total Time Used,#,#,#,#,,Max for Each Valve,#,#,
